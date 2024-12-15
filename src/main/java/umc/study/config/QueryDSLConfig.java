@@ -1,3 +1,4 @@
+/*
 package umc.study.config;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
@@ -16,3 +17,4 @@ public class QueryDSLConfig {
         return new JPAQueryFactory(entityManager);
     }
 }
+*/
